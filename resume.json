@@ -1,0 +1,58 @@
+{
+  "basics": {
+    "label": "Senior Machine Learning Engineer & Squad Lead",
+    "summary": "Senior Machine Learning Engineer with a strong Computer Science background, specializing in high-performance distributed computing (Databricks, PySpark, Polars), core software engineering standards, and complete ML lifecycle automation. Experienced in guiding technical squads through agile execution while maintaining strict code quality, modular architecture, and automated CI/CD pipelines integrated with Git and MLflow for robust experiment tracking and model deployment. Expertise spans building production-grade supervised and unsupervised ML systems with heavy emphasis on mathematically grounded feature engineering across large-scale, multi-domain datasets. Extensive experience with cloud platforms and state-of-the-art developer tooling—working comfortably both with and without AI coding agents and skill-oriented agentic workflows."
+  },
+  "skills": [
+    {
+      "category": "Languages & Core Tech",
+      "keywords": ["Python", "PySpark", "Pandas", "SQL", "Bash"]
+    },
+    {
+      "category": "ML & Applied Mathematics",
+      "keywords": ["Feature Engineering", "Supervised Learning", "Unsupervised Learning"]
+    },
+    {
+      "category": "ML Lifecycle, MLOps & Quality",
+      "keywords": ["MLflow", "Model Drift Monitoring", "Git", "Modular Code Architecture", "pytest"]
+    },
+    {
+      "category": "AI Developer Workflows",
+      "keywords": ["Skill-Oriented Agents", "AI Coding Assistants", "Agile/Scrum"]
+    },
+    {
+      "category": "Cloud, Data & Governance",
+      "keywords": ["Databricks Medallion Architecture", "Delta Lake", "Data Pipelines", "BI Tools"]
+    }
+  ],
+  "work": [
+    {
+      "position": "Squad Lead / Lead ML Engineer",
+      "title": "Cloud Platform Modernization & Squad Leadership",
+      "highlights": [
+        "Led a squad of engineers responsible for executing the strategic transition from legacy on-premise infrastructure to modern cloud platforms (Databricks).",
+        "Drove end-to-end architecture and infrastructure design, utilizing Terraform for Infrastructure as Code (IaC), setting up data ingestion layers, distributed ETL pipelines, and sandbox environments for ML experimentation.",
+        "Established enterprise data governance and accessibility using Unity Catalog, integrated BI reporting tools, and deployed interactive frontend agents for data accessibility.",
+        "Modernized team development workflows by incorporating state-of-the-art AI developer toolkits, including coding assistants and skill-oriented agentic workflows, to accelerate delivery and maintain clean code standards."
+      ]
+    },
+    {
+      "position": "Mid-Level ML Engineer",
+      "title": "ML Lifecycle Management & Production MLOps",
+      "highlights": [
+        "Implemented standardized ML lifecycle management across production models utilizing MLflow for experiment tracking, model registry, versioning, and deployment.",
+        "Established strict software engineering practices using Git branching strategies, modular code architecture, and automated testing (PyTest) to guarantee code reproducibility and seamless CI/CD delivery.",
+        "Maintained, monitored, and updated live production models, tracking data and concept drift to ensure continuous baseline reliability across high-frequency datasets."
+      ]
+    },
+    {
+      "position": "Junior ML Engineer",
+      "title": "Applied Mathematics & Multi-Domain ML Algorithm Suite",
+      "highlights": [
+        "Designed and deployed a suite of machine learning algorithms, leveraging applied mathematics—including dimensionality reduction, logarithmic transformations, and calculus/integrals—to construct high-yield feature engineering pipelines.",
+        "Engineered specialized domain solutions across Telecom Networks (unsupervised client profiling, global outlier detection, time-series call prediction), Time-Series Analytics (peak detection, trend forecasting), and Media/Quality Assurance (semi-supervised learning for TV data quality).",
+        "Optimized feature extraction and model runtimes across large datasets, bridging complex mathematical concepts with high-performance Python and SQL code."
+      ]
+    }
+  ]
+}
