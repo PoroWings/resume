@@ -1,7 +1,7 @@
 # Senior Machine Learning Engineer & Squad Lead
 
 ## Summary
-Senior Machine Learning Engineer with a strong Computer Science background, specializing in high-performance distributed computing (Databricks, PySpark, Polars), core software engineering standards, and complete ML lifecycle automation. Experienced in guiding technical squads through agile execution while maintaining strict code quality, modular architecture, and automated CI/CD pipelines integrated with Git and MLflow for robust experiment tracking and model deployment.
+Senior Machine Learning Engineer with a strong Computer Science background, specializing in high-performance distributed computing (Databricks, PySpark), core software engineering standards, and complete ML lifecycle automation. Experienced in guiding technical squads through agile execution while maintaining strict code quality, modular architecture, and automated CI/CD pipelines integrated with Git and MLflow for robust experiment tracking and model deployment.
 
 Expertise spans building production-grade supervised and unsupervised ML systems with heavy emphasis on mathematically grounded feature engineering across large-scale, multi-domain datasets. Extensive experience with cloud platforms and state-of-the-art developer tooling—working comfortably both with and without AI coding agents and skill-oriented agentic workflows.
 
