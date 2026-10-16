@@ -1,7 +1,7 @@
 # Senior Machine Learning Engineer & Squad Lead
 
 ## Summary
-Senior Machine Learning Engineer with a strong Computer Science background, specializing in high-performance distributed computing (Databricks, PySpark), core software engineering standards, and complete ML lifecycle automation. Experienced in guiding technical squads through agile execution while maintaining strict code quality, modular architecture, and automated CI/CD pipelines integrated with Git and MLflow for robust experiment tracking and model deployment.
+Senior Machine Learning Engineer with a masters in Computer Science, specializing in high-performance distributed computing (Databricks, PySpark), core software engineering standards, and complete ML lifecycle automation. Experienced in guiding technical squads through agile execution while maintaining strict code quality, modular architecture, and automated CI/CD pipelines integrated with Git and MLflow for robust experiment tracking and model deployment.
 
 Expertise spans building production-grade supervised and unsupervised ML systems with heavy emphasis on mathematically grounded feature engineering across large-scale, multi-domain datasets. Extensive experience with cloud platforms and state-of-the-art developer tooling—working comfortably both with and without AI coding agents and skill-oriented agentic workflows.
 
@@ -25,7 +25,7 @@ Expertise spans building production-grade supervised and unsupervised ML systems
 **Role:** Squad Lead / Lead ML Engineer  
 
 * **Led a squad of engineers** responsible for executing the strategic transition from legacy on-premise infrastructure to modern cloud platforms (Databricks).
-* **Drove end-to-end architecture and infrastructure design**, utilizing Terraform for Infrastructure as Code (IaC), setting up data ingestion layers, distributed ETL pipelines, and sandbox environments for ML experimentation.
+* **Drove end-to-end architecture and infrastructure design**, utilizing Terraform for Infrastructure as Code (IaC), setting up data ingestion layers, distributed ETL pipelines, and sandbox environments for ML experimentation and development.
 * **Established enterprise data governance and accessibility** using Unity Catalog, integrated BI reporting tools, and deployed interactive frontend agents for data accessibility.
 * **Modernized team development workflows** by incorporating state-of-the-art AI developer toolkits, including coding assistants and skill-oriented agentic workflows, to accelerate delivery and maintain clean code standards.
 
